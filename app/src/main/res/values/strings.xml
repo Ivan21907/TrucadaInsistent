@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TrucadaInsistent</string>
+    <string name="send_call">CALL</string>
+    <string name="delete_digit">DEL</string>
+    <string name="phone_wrong_format">Número de telèfon incorrecte, entri un número vàlid</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="permissionGranted">Permission granted</string>
+    <string name="permissionDenied">Permission denied</string>
+    <string name="permissionPermDenied">Permission permanently denied</string>
+    <string name="callPermissionNeeded">We need access to call</string>
+    <string name="callPermissionThanks">You gave access to call. Thanks!</string>
+    <string name="callPermissionSettings">You permanently denied access to call, please enable this permission in your settings to enjoy this app.</string>
+</resources>
